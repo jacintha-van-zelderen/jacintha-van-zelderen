@@ -53,8 +53,15 @@ Working within a high-security government environment for the Dutch National Pol
 * **Model Selection & Optimization:** Benchmarked and compared multiple core machine learning algorithms, including explainable models like Support Vector Machines (SVM) and Naive Bayes, to determine the most effective classification approach.
 * **Pipeline Refinement:** Built full train-test-evaluate pipelines, interpreting complex model performance metrics and refining the model through several iterations.
 
-![Research Flow](research-flow-DutchPolice.png)
-*Note: The structural framework diagram above is from the original documentation delivered to the Dutch National Police (translated overview: Research Phase -> Experimenting Phase -> Development Phase -> Production Phase).*
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><b>3. Research Flow</b></p>
+      <img src="research-flow-DutchPolice.png" width="100%" alt="Dutch Police Research Structure" />
+      <p><i>Note: Original documentation delivered to the Dutch National Police (Translation: Research Phase → Experimenting Phase → Development Phase → Refinement Phase).</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +73,14 @@ Working within a high-security government environment for the Dutch National Pol
 To gain a foundational, bit-level understanding of network routing and security boundaries without relying on high-level abstraction libraries, I engineered a custom network monitoring processor simulated for an e-commerce infrastructure environment:
 * **Bit-Stream Parsing:** Utilized Python's `struct.unpack` framework to map raw network packets, programmatically unpacking layered network headers directly from the binary payload stream to search for URLs and map this against white-listed URLs kept in a database.
 * **Access Control & Threat Detection:** Implemented multi-factor validation logic to verify connection attempts based on destination URL, network location, and authorized MAC/device addresses, automating real-time administrator security alerts upon detection.
-![Architecture Overview](deep-packet-inspection.png)
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <p><b>4. Deep Packet Inspection </b></p>
+      <img src="deep-packet-inspection.png" width="100%" alt="Dutch Police Research Structure" />
+    </td>
+  </tr>
+</table>
 
 ---
 
