@@ -57,7 +57,7 @@ Working within a high-security government environment for the Dutch National Pol
   <tr>
     <td width="50%" align="center" valign="top">
       <p><b>3. Research Flow</b></p>
-      <img src="research-flow-DutchPolice.png" width="100%" alt="Dutch Police Research Structure" />
+      <img src="research-flow-DutchPolice.png" width="350" style="max-width: 350px; height: auto; alt="Dutch Police Research Structure" />
       <p><i>Note: Original documentation delivered to the Dutch National Police (Translation: Research Phase → Experimenting Phase → Development Phase → Refinement Phase).</i></p>
     </td>
   </tr>
@@ -77,7 +77,7 @@ To gain a foundational, bit-level understanding of network routing and security 
   <tr>
     <td width="50%" align="center" valign="top">
       <p><b>4. Deep Packet Inspection </b></p>
-      <img src="deep-packet-inspection.png" width="100%" alt="Dutch Police Research Structure" />
+      <img src="deep-packet-inspection.png" width="350" style="max-width: 350px; height: auto; alt="Architecture of the system." />
     </td>
   </tr>
 </table>
