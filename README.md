@@ -24,7 +24,7 @@ Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude)
 *Production-ready containerised microservice automating dynamic text profiling to be used in a language learning app.*
 * **Core Tech:** FastAPI, Docker, SpaCy, Pydantic, Textstat, Regex Guardrails
 * **Security Controls:** Mitigates OWASP LLM01 Prompt Injections and OWASP top 10 via runtime sanitisation; enforces header-based IAM token verification.
-* 🔗 **[View Repository & Source Code](https://github.com)**
+* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/adaptive-text-complexity-engine)**
 
 ---
 
@@ -78,6 +78,7 @@ To gain a foundational, bit-level understanding of network routing and security 
     <td width="50%" align="center" valign="top">
       <p><b>4. Deep Packet Inspection </b></p>
       <img src="deep-packet-inspection.png" width="350" style="max-width: 350px; height: auto; alt="Architecture of the system." />
+            <p><i>Architectural overview of the packet inspection system.</i></p>
     </td>
   </tr>
 </table>
