@@ -1,7 +1,7 @@
 # Kia Ora! I'm Jacintha Walters
 **Cybersecurity & AI Professional | Green List Tier 1 Eligible**
 
-Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and 2+ years of experience spanning security architecture, risk assessments, and secure NLP/ML pipelines. Known for bridging the gap between deep technical implementation, compliance frameworks, and executive stakeholder communication.
+Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and several years of experience spanning security architecture, risk assessments, and secure NLP/ML pipelines. Known for bridging the gap between deep technical implementation, compliance frameworks, and executive stakeholder communication.
 
 * 🎯 **Visa Status:** Valid New Zealand Working Holiday Visa (Full Work Rights)
 * 💼 **Target Pathways:** Green List Tier 1 (Straight to Residence) — ICT Security Specialist / AI Software Engineer
@@ -33,7 +33,7 @@ Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude)
 * **Core Focus:** AI Governance, Regulatory Compliance, Data Safety, Responsible AI, Risk Management
 * **Publication Details:** J. Walters, D. Dey, D. Bhaumik, S. Horsman (Amsterdam University of Applied Sciences). Published 14-07-2023. Self-published and later indexed in **Springer’s "Artificial Intelligence: ECAI 2023 International Workshops"**.
 * **Impact:** Selected by the university for multiple international conference keynotes (including ECAI 2023 in Krakow). **Cited 42 times** by global researchers.
-* 🔗 **[View Scientific Paper on arXiv](https://arxiv.org)**
+* 🔗 **[View Scientific Paper on arXiv](https://arxiv.org/abs/2307.10458)**
 
 #### 💡 Abstract and Engineering Methodology
 Organisations adopting Artificial Intelligence face massive challenges aligning deep learning models with data privacy laws and compliance frameworks. My master's research aimed at bridging this gap by focusing on how organisations can assess and improve their readiness for compliance with the AIA:
