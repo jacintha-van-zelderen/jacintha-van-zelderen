@@ -9,11 +9,7 @@ Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude)
 ---
 
 ## 🛠️ Technical Expertise
-* **Cybersecurity:** information security, network security, incident response, risk assessment, security frameworks (NIST), vulnerability analysis, secure development, container security, Internet of Things, IAM, MFA, governance
-* **Artificial Intelligence:** Machine learning (scikit-learn), deep learning, computer vision (YOLO), NLP (spaCy), responsible AI, governance, EU AI Act, ChatGPT, Gemini
-* **Programming Languages:** Python, Java, JavaScript, C++, containerisation (Docker), SQL
-* **Cloud & Infrastructure:** Cloud architecture, AWS ecosystem
-* **Communication & Leadership:** public speaking, stakeholder communication, curriculum design, technical documentation
+Network Security | Governance | Data Processing | Generative AI | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing (NLP) | Large Language Model (LLM) Vulnerabilities |AI Security | Responsible AI |  Internet of Things (IoT) | AWS Cloud Architecture | Containerization | NIST Framework | Incident Response | Risk Assessment | Identity & Access Management (IAM) | API Architecture | Multi Factor Authentication (MFA) | JavaScript | Java | Git | Python | C++ | SQL
 
 ---
 
