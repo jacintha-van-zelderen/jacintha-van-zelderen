@@ -1,10 +1,9 @@
 # Kia Ora! I'm Jacintha Walters
 **Cybersecurity & AI Professional | Green List Tier 1 Eligible**
 
-Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and several years of experience spanning security architecture, risk assessments, and secure NLP/ML pipelines. Known for bridging the gap between deep technical implementation, compliance frameworks, and executive stakeholder communication.
+Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and a few years of experience with security architecture, risk assessments, and secure NLP/ML pipelines. Known for bridging the gap between technical implementation, compliance frameworks, and stakeholder communication.
 
 * 🎯 **Visa Status:** Valid New Zealand Working Holiday Visa (Full Work Rights)
-* 💼 **Target Pathways:** Green List Tier 1 (Straight to Residence) — ICT Security Specialist / AI Software Engineer
 * 📍 **Availability:** Immediate relocation to New Zealand from Europe possible
 
 ---
