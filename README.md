@@ -1,5 +1,5 @@
 # Kia Ora! I'm Jacintha Walters
-**Cybersecurity & AI Professional | Green List Tier 1 Eligible**
+**Cybersecurity & AI Professional**
 
 Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and a few years of experience with security architecture, risk assessments, and secure NLP/ML pipelines. Known for bridging the gap between technical implementation, compliance frameworks, and stakeholder communication.
 
