@@ -15,10 +15,12 @@ Network Security | Governance | Data Processing | Generative AI | Machine Learni
 
 ## 🚀 Featured Engineering Projects & Case Studies
 
-### 1. Secure MLOps NLP Pipeline: Adaptive Text Complexity Engine (Linguall)
-*Production-ready containerised microservice automating dynamic text profiling to be used in a language learning app.*
-* **Core Tech:** FastAPI, Docker, SpaCy, Pydantic, Textstat, Regex Guardrails
-* **Security Controls:** Mitigates OWASP LLM01 Prompt Injections and OWASP top 10 via runtime sanitisation; enforces header-based IAM token verification.
+### 1. Production-Ready NLP Pipeline: Adaptive Text Complexity Engine (Linguall)
+Containerised microservice automating dynamic linguistic text profiling, designed to serve as a core component for language learning platforms.
+
+* **Core Tech:** Python, FastAPI, Docker, SpaCy, Pydantic, Textstat.
+* **Security & DevSecOps Controls:** Implemented automated input sanitization via optimized regex filters; enforced fail-secure header-based API key validation, and mitigated Denial of Service (DoS/CPU exhaustion) risks through payload constraints.
+* **Why it matters:** Demonstrates the ability to build clean, maintainable, and containerised microservices that bridge advanced Natural Language Processing (NLP) with secure, production-grade API architecture.
 * 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/adaptive-text-complexity-engine)**
 
 ---
