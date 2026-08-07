@@ -39,16 +39,19 @@ Organisations adopting Artificial Intelligence face massive challenges aligning 
 * **Proof-of-Concept LLM Development:** Engineered a Large Language Model (LLM) chatbot to allow smaller organisations to interactively explore the new legislation and their current weaknesses.
 ---
 
-### 3. Machine Learning Framework for Threat Intelligence (Dutch National Police)
-*Applied specialized Machine Learning and Data Engineering pipelines to automate threat detection and optimize national web safety.*
-* **Core Tech:** Python, Scikit-Learn, Pandas, NumPy, Machine Learning Pipelines
-* **Classification:** Classified Government Ecosystem (Specific operational details and data implementations are strictly confidential)
 
-#### 💡 Architectural Focus and Methodology
-Working within a high-security government environment for the Dutch National Police, I developed a proof-of-concept predictive framework to improve web safety monitoring:
-* **Data Engineering & Feature Analysis:** Designed data preprocessing loops to securely ingest, clean, and prepare unstructured intelligence data. Performed exploratory data analysis to evaluate feature distributions and ensure high data quality.
-* **Model Selection & Optimization:** Benchmarked and compared multiple core machine learning algorithms, including explainable models like Support Vector Machines (SVM) and Naive Bayes, to determine the most effective classification approach.
-* **Pipeline Refinement:** Built full train-test-evaluate pipelines, interpreting complex model performance metrics and refining the model through several iterations.
+## 3. Predictive Machine Learning Framework (Dutch National Police)
+*Applied specialized Machine Learning and Data Engineering pipelines to optimize automated anomaly detection and national safety monitoring.*
+
+* **Core Tech:** Python, Scikit-Learn, Feature Vectorization, Pandas, NumPy, Machine Learning Pipelines.
+* **Classification:** Classified Government Ecosystem *(Specific operational details and data implementations are strictly confidential)*.
+
+### 💡 Architectural Focus and Methodology
+Working within a high-security government environment for the Dutch National Police, I developed a proof-of-concept predictive framework to improve data-driven safety monitoring:
+* **Data Engineering:** Designed robust preprocessing loops to securely ingest, clean, and structure high-volume intelligence data using large-scale open-source datasets comprising ~700,000 records.
+* **Advanced Feature Engineering:** Implemented high-dimensional vectorization techniques to transform unstructured data inputs into standardized numerical features for model ingestion.
+* **Model Optimization & Feature Selection:** Benchmarked and compared **four distinct machine learning architectures** against a 50% baseline accuracy. Developed an iterative feature selection framework, systematically isolating the **top 230 highest-impact predictive features**. 
+* **Performance Breakthrough:** Successfully refined the pipeline through exhaustive train-test-evaluate iterations, **driving model performance from the 50% baseline up to a 90% classification accuracy**.
 
 <table width="100%">
   <tr>
