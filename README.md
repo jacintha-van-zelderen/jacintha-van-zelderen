@@ -95,7 +95,7 @@ To gain a foundational, bit-level understanding of network routing and security 
 
 ## ☕ More About Me
 When I am not analysing for vulnerabilities or training AI pipelines, you can usually find me:
-* 🍳 **Cooking traditional European dishes** and sourcing fresh, seasonal ingredients directly from local organic farmers. I am already looking forward to exploring New Zealand's local markets!
+* 🍳 **Cooking traditional European dishes** and sourcing fresh, seasonal ingredients directly from local organic farmers. 
 * ☕ **Working on my YouTube channel!** I have a channel with currently **15,000+ subscribers and 900,000+ views** where I share videos about my travel experiences and day-to-day life!
 * 🇪🇺 **Polyglot in training:** Native in Dutch, fluent in English (C2), and currently maintaining an intermediate (B1) level in German. 
 
