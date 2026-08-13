@@ -6,7 +6,14 @@ Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude)
 ---
 
 ## 🛠️ Technical Expertise
-Network Security | Governance | Data Processing | Generative AI | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing (NLP) | Large Language Model (LLM) Vulnerabilities |AI Security | Responsible AI |  Internet of Things (IoT) | AWS Cloud Architecture | Containerization | NIST Framework | Incident Response | Risk Assessment | Identity & Access Management (IAM) | API Architecture | Multi Factor Authentication (MFA) | JavaScript | Java | Git | Python | C++ | SQL
+**AI & Data**
+Retrieval Augmented Generation (RAG) | Generative AI (ChatGPT, Claude, etc.) | AI Governance | Responsible AI | EU AI Act | AI Security | Data Engineering | Machine Learning | Large Language Model (LLM) | Prompt Engineering | Python
+
+**Technology & Cybersecurity**
+Cloud Architecture | Security Governance | Risk Management | Cloud Security | API Architecture | Identity & Access Management (IAM) | Docker Containerisation | Multi Factor Authentication (MFA) | AWS | SQL | Git
+
+**Leadership & Communication**
+Stakeholder Management | Team Leadership | Presenting | Technical Workshops | Writing | Course Development
 
 ---
 
