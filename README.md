@@ -21,11 +21,11 @@ Stakeholder Management | Team Leadership | Presenting | Technical Workshops | Wr
 ### 1. RAG Chatbot: EU AI Act Chatbot
 An open-ended chat assistant grounded in the actual text of the EU AI Act, built to demonstrate the RAG architecture.
 
-Core Tech: Python, FastAPI, React (Vite), sentence-transformers, Google Gemini API — same core RAG pipeline as the Compliance Checker, reused and re-tuned.
-Prompt Engineering: Iteratively tuned the system prompt to trade strict citation-only grounding for confident, general-purpose answers where appropriate — a deliberate UX decision, documented and reasoned through rather than a default.
-Why it matters: Shows the same underlying retrieval system configured two different ways for two different audiences — evidence of understanding why a RAG system behaves the way it does, not just how to wire one up once.
-🔗 [Live Demo](https://euaiact-chatbot.vercel.app)
-🔗 [View Repository & Source Code](https://github.com/jacintha-walters/euaiact-chatbot)
+* **Core Tech:** Python, FastAPI, React (Vite), sentence-transformers, Google Gemini API
+* **Prompt Engineering:** Iteratively tuned the system prompt to find a balance between grounding in articles and answering a wide array of questions.
+* **Why it matters:** Shows the same underlying retrieval system configured two different ways for two different audiences — evidence of understanding why a RAG system behaves the way it does, not just how to wire one up once.
+* 🔗 **[Live Demo](https://euaiact-chatbot.vercel.app)**
+* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-chatbot)**
 
 
 ### 2. RAG-Grounded Regulatory Compliance Assistant: EU AI Act Compliance Checker
