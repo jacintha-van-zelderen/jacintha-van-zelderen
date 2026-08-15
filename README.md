@@ -26,7 +26,7 @@ Full-stack self-serve web app that helps organizations classify an AI system's r
 * **Cost & Abuse Controls:** Per-IP rate limiting (slowapi), Pydantic-enforced input length constraints, scoped CORS allowlisting.
 * **Why it matters:** Demonstrates the ability to take original academic research from theory to a deployed, RAG-grounded production tool — spanning data modeling, API design, retrieval architecture, applied LLM evaluation, and AI-specific security testing.
 * 🔗 **[Live demo](https://complywithai.eu)**
-* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-check)**
+* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-chat)**
 
 ---
 
