@@ -18,28 +18,19 @@ Stakeholder Management | Team Leadership | Presenting | Technical Workshops | Wr
 ---
 
 ## 🚀 Featured Engineering Projects & Case Studies
-### 1. RAG Chatbot: EU AI Act Chatbot
-An open-ended chat assistant grounded in the actual text of the EU AI Act, built to demonstrate the RAG architecture.
-
-* **Core Tech:** Python, FastAPI, React (Vite), sentence-transformers, Google Gemini API
-* **Prompt Engineering:** Iteratively tuned the system prompt to find a balance between grounding in articles and answering a wide array of questions.
-* **Why it matters:** Shows the same underlying retrieval system configured two different ways for two different audiences — evidence of understanding why a RAG system behaves the way it does, not just how to wire one up once.
-* 🔗 **[Live Demo](https://euaiact-chatbot.vercel.app)**
-* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-chatbot)**
-
-
-### 2. RAG-Grounded Regulatory Compliance Assistant: EU AI Act Compliance Checker
-Full-stack self-serve web app that helps organizations to classify an AI system's risk tier under the EU AI Act, by scoring high-risk AI model against a 50-question compliance assessment. The app contains a chatbot that allows the user to discuss the results of the questionnaire and give specific advise on mitigation. This tool builds on and extends my own 2023 peer-reviewed research (50+ citations).
-* **Core Tech:** Python, FastAPI, React (Vite), Pydantic, sentence-transformers, Google Gemini API, RAG.
-* **RAG & Evaluation:** Built a full retrieval-augmented generation pipeline from scratch — local embedding of primary legal source text, similarity retrieval, and prompt grounding using both retrieved articles and the user's own structured assessment data, to keep LLM output citation-accurate rather than generic.
-* **Security & Cost Controls:** Per-IP rate limiting (slowapi) and Pydantic-enforced input length constraints on the LLM-facing endpoint to prevent abuse and control API spend; scoped CORS allowlisting between deployed frontend and backend.
-* **Why it matters:** Demonstrates the ability to take original academic research from theory to a deployed, RAG-grounded production tool — spanning data modeling, API design, retrieval architecture, and applied LLM evaluation, not just prompting.
-* 🔗 **[Live demo!](https://euaiact-chat.vercel.app/)**
-* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-chat)**
+### 1. Comply with AI — RAG-Grounded EU AI Act Compliance Assistant
+Full-stack self-serve web app that helps organizations classify an AI system's risk tier under the EU AI Act, offering both a fast open-ended chat and a full 50-question scored compliance assessment. The chatbot is grounded in the actual text of the Act and — after the assessment — in the user's own answers, giving specific, citation-backed advice rather than generic guidance. This tool builds on and extends my own 2023 peer-reviewed research (50+ citations - see number 3).
+* **Core Tech:** Python, FastAPI, React (Vite), Tailwind, shadcn/ui, Pydantic, Google Gemini API (chat + hosted embeddings), RAG.
+* **RAG & Evaluation:** Built a full retrieval-augmented generation pipeline from scratch — embedding of primary legal source text, similarity retrieval, and prompt grounding using both retrieved articles and the user's own structured assessment data, to keep LLM output citation-accurate rather than generic. Two distinct prompt strategies (confident/general vs. evidence-grounded/scored) tuned for two different use cases from the same underlying retrieval system.
+* **AI Security:** Ran a manual test suite structured around the OWASP Top 10 for LLM Applications against the live deployed endpoint — found and fixed a partial system-prompt leak (indirect extraction via "debugging" and translation framings) and a rate limiter silently disabled in production by a reverse-proxy IP issue.
+* **Cost & Abuse Controls:** Per-IP rate limiting (slowapi), Pydantic-enforced input length constraints, scoped CORS allowlisting.
+* **Why it matters:** Demonstrates the ability to take original academic research from theory to a deployed, RAG-grounded production tool — spanning data modeling, API design, retrieval architecture, applied LLM evaluation, and AI-specific security testing.
+* 🔗 **[Live demo](https://complywithai.eu)**
+* 🔗 **[View Repository & Source Code](https://github.com/jacintha-walters/euaiact-check)**
 
 ---
 
-### 3. Production-Ready NLP Pipeline: Adaptive Text Complexity Engine (Linguall)
+### 2. Production-Ready NLP Pipeline: Adaptive Text Complexity Engine (Linguall)
 Containerised microservice automating dynamic linguistic text profiling, designed to serve as a core component for language learning platforms.
 
 * **Core Tech:** Python, FastAPI, Docker, SpaCy, Pydantic, Textstat.
@@ -49,7 +40,7 @@ Containerised microservice automating dynamic linguistic text profiling, designe
 
 ---
 
-### 4. Peer-Reviewed Publication: Enterprise AI Governance Framework (EU AI Act)
+### 3. Peer-Reviewed Publication: Enterprise AI Governance Framework (EU AI Act)
 *First-Author research translating emerging European Union Artificial Intelligence Act regulations into actionable organizational maturity assessments.*
 * **Core Focus:** AI Governance, Regulatory Compliance, Data Safety, Responsible AI, Risk Management
 * **Publication Details:** J. Walters, D. Dey, D. Bhaumik, S. Horsman (Amsterdam University of Applied Sciences). Published 14-07-2023. Self-published and later indexed in **Springer’s "Artificial Intelligence: ECAI 2023 International Workshops"**.
@@ -64,7 +55,7 @@ Organisations adopting Artificial Intelligence face massive challenges aligning 
 ---
 
 
-## 5. Predictive Machine Learning Framework (Dutch National Police)
+## 4. Predictive Machine Learning Framework (Dutch National Police)
 *Applied specialized Machine Learning and Data Engineering pipelines to optimize automated anomaly detection and national safety monitoring.*
 
 * **Core Tech:** Python, Scikit-Learn, Feature Vectorization, Pandas, NumPy, Machine Learning Pipelines.
@@ -89,7 +80,7 @@ Working within a high-security government environment for the Dutch National Pol
 
 ---
 
-### 6. Deep Packet Inspection & Custom Intrusion Detection (IDS) Lab
+### 5. Deep Packet Inspection & Custom Intrusion Detection (IDS) Lab
 *Low-level network security protocol parser designed from scratch to enforce zero-trust filtering and secure subnet boundaries.*
 * **Core Focus:** Python, Socket Programming, IAM, Relational Databases, Network Monitoring
 
