@@ -6,13 +6,13 @@ Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude)
 ---
 
 ## 🛠️ Technical Expertise
-**AI & Data** \\
+**AI & Data**  
 Retrieval Augmented Generation (RAG) | Generative AI (ChatGPT, Claude, etc.) | AI Governance | Responsible AI | EU AI Act | AI Security | Data Engineering | Machine Learning | Large Language Model (LLM) | Prompt Engineering | Python
 
-**Technology & Cybersecurity** \\
+**Technology & Cybersecurity**  
 Cloud Architecture | Security Governance | Risk Management | Cloud Security | API Architecture | Identity & Access Management (IAM) | Docker Containerisation | Multi Factor Authentication (MFA) | AWS | SQL | Git
 
-**Leadership & Communication** \\
+**Leadership & Communication**  
 Stakeholder Management | Team Leadership | Presenting | Technical Workshops | Writing | Course Development
 
 ---
