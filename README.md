@@ -43,8 +43,8 @@ Containerised microservice automating dynamic linguistic text profiling, designe
 ### 3. Peer-Reviewed Publication: Enterprise AI Governance Framework (EU AI Act)
 *First-Author research translating emerging European Union Artificial Intelligence Act regulations into actionable organizational maturity assessments.*
 * **Core Focus:** AI Governance, Regulatory Compliance, Data Safety, Responsible AI, Risk Management
-* **Publication Details:** J. Walters, D. Dey, D. Bhaumik, S. Horsman (Amsterdam University of Applied Sciences). Published 14-07-2023. Self-published and later indexed in **Springer’s "Artificial Intelligence: ECAI 2023 International Workshops"**.
-* **Impact:** Selected by the university for multiple international conference keynotes (including ECAI 2023 in Krakow). **Cited 42 times** by global researchers.
+* **Publication Details:** Published 14-07-2023. Self-published and later indexed in **Springer’s "Artificial Intelligence: ECAI 2023 International Workshops"**.
+* **Impact:** Selected by the university for multiple international conference keynotes (including ECAI 2023 in Krakow). **Cited 50+ times** by global researchers.
 * 🔗 **[View Scientific Paper on arXiv](https://arxiv.org/abs/2307.10458)**
 
 #### 💡 Abstract and Engineering Methodology
