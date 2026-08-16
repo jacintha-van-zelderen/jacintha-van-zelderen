@@ -1,4 +1,4 @@
-# Hi! I'm Jacintha Walters
+# Hi! I'm Jacintha van Zelderen
 **Cybersecurity & AI Professional**
 
 Hands-on IT professional with a strong academic background (MSc & BSc Cum Laude) and a few years of experience with security architecture, risk assessments, LLM/RAG models and secure NLP/ML pipelines. Known for bridging the gap between technical implementation, compliance frameworks, and stakeholder communication.
